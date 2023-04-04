@@ -4,4 +4,3 @@ this is the second line of the first file
 
 I am making a change to this file -Damilola
 
-I am making my contribution to this file. I am doing this via my android - Tope Taiwo
